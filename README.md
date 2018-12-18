@@ -1,0 +1,3 @@
+# MySpringCloudServer
+Spring Cloud的注册中心
+先启动此服务，再启动springcloudclient和
